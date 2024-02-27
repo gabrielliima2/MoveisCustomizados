@@ -3,7 +3,8 @@
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
 </p>
-<img align="center" src="https://img.hotimg.com/projeto02.md.jpeg" alt="projeto02.jpeg" border="0" />
+
+<img src="https://img.hotimg.com/projeto02.md.jpeg" alt="projeto02.jpeg" border="0" />
 
 ## 🚀 Tecnologias
 
