@@ -1,10 +1,9 @@
-<h1 align="center"> Treine.me </h1>
+<h1 align="center"> moveis.customizados </h1>
 
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
 </p>
-
-<img src="https://img.hotimg.com/projeto02.md.jpeg" alt="projeto02.jpeg" border="0" />
+<img src="https://img.hotimg.com/projeto01.jpeg" alt="projeto01.jpeg" border="0" />
 
 ## 🚀 Tecnologias
 
