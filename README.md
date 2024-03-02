@@ -1,4 +1,4 @@
-<h1 align="center"> moveis.customizados </h1>
+<h1 align="center"> MoveisCustomizados </h1>
 
 <p align="center">
 Programa exclusivo para estudo de tecnologias WEB.
